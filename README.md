@@ -41,7 +41,7 @@ Django Project 2
   pip install rake-nltk
 ```
 6) Node.js (In order to set-up and install Tailwind), NPM for tailwind
---> a) https://nodejs.org/en/  (download the LTS version), after installsation check if it is installed by running command (node --version)
+--> a) https://nodejs.org/en/  (download the LTS version), after installsation check if it is installed by running command (node --version)  
 --> b) tailwind 
 
 ```bash
